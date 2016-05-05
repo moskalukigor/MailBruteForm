@@ -68,7 +68,7 @@ namespace MailBruteForm
                 _frmMain.setLblBad(countBad);
                 badList.Add(splitacc[0] + ":" + splitacc[1]);
                 countBad++;
-            }s
+            }
             response.Close();
 
 
